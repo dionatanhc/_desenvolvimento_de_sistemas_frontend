@@ -1,0 +1,64 @@
+/* NOVA PALETA DARK CLEAN */
+:root {
+  --bg-main: #0F111A;
+  --bg-card: #1A1D27;
+  --bg-elevated: #212634;
+
+  --text-primary: #ffffff;
+  --text-secondary: #A8B3CF;
+  --text-muted: #6F768D;
+
+  --accent: #3E7BFA;
+  --accent-hover: #5A8CFF;
+}
+
+/* REMOVER ESTILOS DO VITE QUE QUEBRAM O LAYOUT */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+
+  /* REMOVIDO:
+     display: flex;
+     place-items: center;
+     min-width: 320px;
+     min-height: 100vh;
+  */
+
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Links */
+a {
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-hover);
+}
+
+/* Botões */
+button {
+  border-radius: 6px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 600;
+  background-color: var(--bg-card);
+  color: var(--text-primary);
+}
+
+button:hover {
+  border-color: var(--accent);
+}
+
+button:focus {
+  outline: 3px solid var(--accent);
+}
