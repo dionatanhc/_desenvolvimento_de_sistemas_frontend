@@ -79,7 +79,8 @@ A API ficará disponível em:
 
 # 🧪 Execução de Testes (Vitest + Testing Library)
 
-O projeto possui testes automatizados para: - NavBar\
+O projeto possui testes automatizados para: 
+- NavBar\
 - SerieForm\
 - SerieList
 
@@ -150,7 +151,8 @@ src/
 
 Formulário usado para **cadastrar** ou **editar** séries.
 
-Campos: - Título\
+Campos: 
+- Título\
 - Temporadas\
 - Data de Lançamento\
 - Diretor\
@@ -164,7 +166,10 @@ Campos: - Título\
 
 Lista todas as séries cadastradas.
 
-Funcionalidades: - Editar - Excluir - Navegar para cadastro
+Funcionalidades: 
+- Editar
+- Excluir
+- Navegar para cadastro
 
 ------------------------------------------------------------------------
 
@@ -193,7 +198,7 @@ Funcionalidades: - Editar - Excluir - Navegar para cadastro
 # 👨‍💻 Autor
 
 **Dionatan Castro**\
-Estudante de Análise e Desenvolvimento de Sistemas -- PUCRS\
+Estudante de Análise e Desenvolvimento de Sistemas - PUCRS\
 Projeto desenvolvido para fins acadêmicos.
 
 ------------------------------------------------------------------------
