@@ -180,15 +180,15 @@ Funcionalidades: - Editar - Excluir - Navegar para cadastro
 
 # 🖼️ Imagens do projeto
 
-![Tela Inicial](pictures/inicio.png)
+![Tela Inicial](../pictures/inicio.png)
 
-![Sobre](pictures/sobre.png)
+![Sobre](../pictures/sobre.png)
 
-![Formulário de Cadastro](pictures/cadastrar.png)
+![Formulário de Cadastro](../pictures/cadastrar.png)
 
-![Listagem de Séries](pictures/listagem.png)
+![Listagem de Séries](../pictures/listagem.png)
 
-![Estrutura](pictures/arquivos.png)
+![Estrutura](../pictures/arquivos.png)
 
 ------------------------------------------------------------------------
 
